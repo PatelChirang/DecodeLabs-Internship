@@ -8,7 +8,7 @@ A simple chatbot built using Python and if-else logic.
 
 ### Output
 
-![Chatbot Output](rule based chatbot ss.png)
+![Chatbot Output](C:\Users\Admin\Desktop\Decodelabs\iris ss.png)
 
 
 ### Features
