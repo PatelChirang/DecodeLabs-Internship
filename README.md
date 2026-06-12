@@ -8,7 +8,7 @@ A simple chatbot built using Python and if-else logic.
 
 ### Output
 
-![Chatbot Output](Project-1/rule based chatbot ss.png)
+![Chatbot Output](rule based chatbot ss.png)
 
 
 ### Features
@@ -22,7 +22,7 @@ A simple chatbot built using Python and if-else logic.
 A machine learning classification project using the Iris dataset and KNN algorithm.
 
 ### Output
-![Classification Output](Project-2/tech stack ss.png)
+![Classification Output](tech stack ss.png)
 
 ### Features
 
@@ -37,7 +37,7 @@ A recommendation system that suggests career paths based on user skills using TF
 
 ### Output
 
-![Recommendation Output](Project-3/iris ss.png)
+![Recommendation Output](iris ss.png)
 
 ### Features
 
